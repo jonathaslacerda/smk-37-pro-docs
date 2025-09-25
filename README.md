@@ -11,7 +11,7 @@ Repositório para documentação do mvave SMK 37 Pro
 * Eight 360-degree rotary encoders
 * Four faders
 * Step sequencer, smart chord, arpeggiator and note repeat function
-* MIDI TRS Out
+* MIDI TRS Out Type A
 * MIDI and Audio interface over USB C
 * Stereo audio output (TRS)
 * 1x sustain/expression 6.35mm (1/4") Pedal input standard jack
