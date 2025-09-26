@@ -18,6 +18,7 @@ Documentation repository for M-Vave SMK 37 Pro
 
 # Specifications
 
+* Five colors available: White, Black, Pink, Red and Full Black
 * 37 Keys with velocity-sensitive
 * 16 RGB backlight pads with velocity and aftertouch
 * 1.54" LCD Display
