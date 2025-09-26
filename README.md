@@ -33,6 +33,8 @@ Documentation repository for M-Vave SMK 37 Pro
 * MIDI over bluetooth 5.0
 * 2000mAh battery
 * Windows/MacOS/iOS/iPadOS/Android compatible
+* Dimensions: TO-DO
+* In the box: SMK 37 Pro, USB C -> USB A Cable, User manual
 
 # Images
 
