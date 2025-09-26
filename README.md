@@ -8,6 +8,14 @@ Documentation repository for M-Vave SMK 37 Pro
 
 # Hardware
 
+* SoC JieLi AC7911B8 | [Datasheet](https://www.axtekic.com/web/uploads/file/20230313/gNZPgyZMJ87VB3CB0873B102SR6868n8.pdf)
+   * 32-bit RISC CPU
+     * Double core RISC 32-bit CPU(Support FPU)
+     * 24KB D-Cache 6 way, 32KB I-Cache 8way
+     * DC-320MHz operation
+     * 128 Vectored interrupts
+     * Four Levels interrupt priority
+
 # Specifications
 
 * 37 Keys with velocity-sensitive
@@ -27,16 +35,33 @@ Documentation repository for M-Vave SMK 37 Pro
 
 # Internal Synthesis Engine
 
-* FM Synth with 6 OP, fully compatible with Yamaha DX7 MK1 (with some issues and glitches)
-* FX (TO-DO)
+* FM Synth 
+    * Six FM Operators, fully compatible with Yamaha DX7 MK1 (with some issues and glitches)
+    * Feedback
+    * 32 algorythm
+    * Mono/Poly
+    * FX: Cutoff, distortion, reverb, delay
+* FX
+    * Cutoff, distortion, reverb, delay
 * Polyphony: 12 notes?
 
-# Apps
+# Software and Apps
 
-
+* Device Editor
+  * [MidiSuite for Windows](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/MidiSuite.zip)
+  * [MidiSuite for MacOS](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/MidiSuite.dmg)
+  * [MidiSuite for iOS/ipadOS](https://apps.apple.com/us/app/midi-suite/id6737530581)
+  * [MidiSuite for Android](https://resource.m-vave.com/software/app/MidiSuite.apk)
+* Firmware Upgrade
+  * [M-Upgrade for Windows](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/M-UPGRADE.zip)
+  * [M-Upgrade for MacOS](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/M-UPGRADE.dmg)
+* Bluetooth MIDI Connector
+  * [Sinco Connector for Windows](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/Sinco_Connector.exe)  
 
 # Firmware
 
 [Firmware versions](firmware-history.MD)
 
 # Hacking
+
+TO-DO
