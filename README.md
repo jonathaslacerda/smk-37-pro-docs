@@ -1,8 +1,10 @@
-Repositório para documentação do mvave SMK 37 Pro
+Documentation repository for M-Vave SMK 37 Pro
 
-# Official page
+# Official Docs
 
-[SMK-37 Pro](https://www.cuvave.com/productinfo/1431195.html)
+* [Product Page - SMK-37 Pro](https://www.cuvave.com/productinfo/1431195.html)
+* [User Manual](manual/smk-37-pro-user-manual.pdf)
+* [DAW Setup Manual](manual/smk-37-pro-daw-setup-manual.pdf)
 
 # Hardware
 
