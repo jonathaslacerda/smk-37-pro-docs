@@ -1,5 +1,9 @@
 Repositório para documentação do mvave SMK 37 Pro
 
+# Official page
+
+[SMK-37 Pro](https://www.cuvave.com/productinfo/1431195.html)
+
 # Hardware
 
 # Specifications
@@ -19,12 +23,15 @@ Repositório para documentação do mvave SMK 37 Pro
 * 2000mAh battery
 * Windows/MacOS/iOS/iPadOS/Android compatible
 
-# FM Synthesis
+# Internal Synthesis Engine
 
-* Yamaha DX7 MK1 compatible (with some issues and glitches)
+* FM Synth with 6 OP, fully compatible with Yamaha DX7 MK1 (with some issues and glitches)
+* FX (TO-DO)
 * Polyphony: 12 notes?
 
 # Apps
+
+
 
 # Firmware
 
