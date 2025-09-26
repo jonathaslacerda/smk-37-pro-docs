@@ -26,6 +26,6 @@ Repositório para documentação do mvave SMK 37 Pro
 
 # Apps
 
-# Firmware
+[# Firmware](firmware-history.MD)
 
 # Hacking
