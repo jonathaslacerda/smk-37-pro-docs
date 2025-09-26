@@ -33,6 +33,8 @@ Documentation repository for M-Vave SMK 37 Pro
 * 2000mAh battery
 * Windows/MacOS/iOS/iPadOS/Android compatible
 
+# Images [Internal images][images/] 
+
 # Internal Synthesis Engine
 
 * FM Synth 
@@ -60,7 +62,7 @@ Documentation repository for M-Vave SMK 37 Pro
 
 # Firmware
 
-[Firmware versions](firmware-history.MD)
+[Firmware versions](firmware/FIRMWARE.md)
 
 # Hacking
 
