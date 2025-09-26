@@ -40,6 +40,10 @@ Documentation repository for M-Vave SMK 37 Pro
 
 [Official and web images](images/IMAGES.md)
 
+# Videos
+
+[Official Youtube Playlist](https://www.youtube.com/playlist?list=PLYwLyF01evmMiaq1pv3QuYgvn-m5aVVDD)
+
 # Internal Synthesis Engine
 
 * FM Synth 
