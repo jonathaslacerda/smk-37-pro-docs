@@ -2,13 +2,14 @@ Documentation repository for M-Vave SMK 37 Pro
 
 # Official Docs
 
-* [Product Page - SMK-37 Pro](https://www.cuvave.com/productinfo/1431195.html)
+* <a href="https://www.cuvave.com/productinfo/1431195.html" target="_blank">Product Page - SMK-37 Pro</a>
 * [User Manual](manual/smk-37-pro-user-manual.pdf)
 * [DAW Setup Manual](manual/smk-37-pro-daw-setup-manual.pdf)
 
 # Hardware
 
-* SoC JieLi AC7911B8 | [Datasheet](https://www.axtekic.com/web/uploads/file/20230313/gNZPgyZMJ87VB3CB0873B102SR6868n8.pdf)
+* SoC JieLi AC7911B8 |
+<a href="https://www.axtekic.com/web/uploads/file/20230313/gNZPgyZMJ87VB3CB0873B102SR6868n8.pdf" target="_blank">Datasheet</a>
    * 32-bit RISC CPU
      * Double core RISC 32-bit CPU(Support FPU)
      * 24KB D-Cache 6 way, 32KB I-Cache 8way
@@ -42,7 +43,7 @@ Documentation repository for M-Vave SMK 37 Pro
 
 # Videos
 
-[Official Youtube Playlist](https://www.youtube.com/playlist?list=PLYwLyF01evmMiaq1pv3QuYgvn-m5aVVDD)
+<a href="https://www.youtube.com/playlist?list=PLYwLyF01evmMiaq1pv3QuYgvn-m5aVVDD" target="_blank">Official Youtube Playlist</a>
 
 # Internal Synthesis Engine
 
@@ -61,7 +62,7 @@ Documentation repository for M-Vave SMK 37 Pro
 * Device Editor
   * [MidiSuite for Windows](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/MidiSuite.zip)
   * [MidiSuite for MacOS](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/MidiSuite.dmg)
-  * [MidiSuite for iOS/ipadOS](https://apps.apple.com/us/app/midi-suite/id6737530581)
+  * <a href="https://apps.apple.com/us/app/midi-suite/id6737530581" target="_blank">MidiSuite for iOS/ipadOS</a>
   * [MidiSuite for Android](https://resource.m-vave.com/software/app/MidiSuite.apk)
 * Firmware Upgrade
   * [M-Upgrade for Windows](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/M-UPGRADE.zip)
