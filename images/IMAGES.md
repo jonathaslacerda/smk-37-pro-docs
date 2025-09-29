@@ -10,3 +10,8 @@
 ![Battery](internals-battery.jpg "Battery")
 ![Bend and Modulation Wheels](internals-bend-modulation-wheels.webp "Bend and Modulation Wheels")
 ![Mainboard and Keybed](internals-mainboard-keybed.jpg "Mainboard and Keybed")
+![SoC](internals-soc.png "SoC")
+![Board](internals-board1.jpg "Board")
+![Board](internals-board2.jpg "Board")
+![Board](internals-board3.jpg "Board")
+![Board](internals-board4.jpg "Board")
