@@ -18,6 +18,7 @@
 * Fixed latency when switching MONO/POLY modes.
 * Fixed incorrect display for specific SCALE types.
 * Improved reverb dynamics during fast playing.
+* [UNOFFICIAL] reverb length has been worsened compared to the previous version
 * Optimized UI overlay logic across interfaces.
 * Adjusted UI delay for short-press actions.
 * Added manual save for the Sequencer.
