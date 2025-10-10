@@ -84,6 +84,10 @@ Documentation repository for M-Vave SMK 37 Pro
 
 [Firmware versions](firmware/FIRMWARE.md)
 
+## Known bugs and errors/issues
+
+* Some latency found and appears to be related to power saving (not fixed until firmware 1.10 (v13)
+
 ## Hacking ([Thanks to probonopd](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc))
 
 The firmware update file has the extension `.fwsc` and contains strings that make it seem probable that it uses a scheme similar (or identical) to what is described in [https://kagaimiq.github.io/jielie/datafmt/newfw.html](https://kagaimiq.github.io/jielie/datafmt/newfw.html).
