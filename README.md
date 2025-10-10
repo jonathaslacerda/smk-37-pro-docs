@@ -86,6 +86,9 @@ Documentation repository for M-Vave SMK 37 Pro
 
 ## Known bugs and errors/issues
 
+* [Wheels stop working after factory reset](https://www.reddit.com/r/synthesizers/comments/1kz1m4a/mvave_smk37_pro_pitchmod_wheel_not_working_after/)
+* [minor error in Scale World II](https://www.youtube.com/watch?v=I4OdTniRRtU)
+* [BUG MIDI channel Seq Drum mode](https://www.youtube.com/watch?v=DHvQLDJARNc)
 * Some latency found and appears to be related to power saving (not fixed until firmware 1.10 (v13)
 
 ## Hacking ([Thanks to probonopd](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc))
