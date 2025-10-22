@@ -16,6 +16,10 @@ Documentation repository for M-Vave SMK 37 Pro
 
 ## Hardware
 
+## Jieli Stuffs
+
+* [How to identify Jieli chips](https://www.reddit.com/r/diyelectronics/comments/1dxwom5/how_to_identify_jieli_jl%CF%80_bluetooth_chips)
+
 * ~SoC JieLi C108221-11B8 ([LarsLinux93](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc?permalink_comment_id=5739103#gistcomment-5739103))~
 * SoC JieLi AC7911B8 ([EdCo](https://www.sequencer.de/synthesizer/threads/m-vave-smk-37-pro-midi-controller-mit-eingebauter-dx7-engine-und-sequenzer.175956/page-3#post-2980924))
   * Documentation: https://doc.zh-jieli.com/AC79/zh-cn/release_v1.2.0/
