@@ -27,7 +27,74 @@ Documentation repository for M-Vave SMK 37 Pro
     * DC-320MHz operation
     * 128 Vectored interrupts
     * Four Levels interrupt priority
-
+  * 8Mbit Flash
+  * Image Signal Processor
+    * Support DVP and BT656 interface timing
+    * Support YUV422 format (Input)
+    * Support YUV422 and YUV420 format (Output)
+    * Support 720p@30fps input size
+  * Flexible I/O
+    * 28 GPIO pins
+    * All GPIO pins can be programmable as input
+    * or output individually
+    * All GPIO pins are internal pull-up/pull-down selectable individually
+    * CMOS/TTL level Schmitt triggered input
+    * External wake up/interrupt on all GPIOs
+  * Peripheral Feature
+    * FUSB 1.1 OTG controller
+    * Audio interface supports IIS, left adjusted,
+    * right adjusted and DSP mode
+    * Multi-function 32-bit timers, support capture and PWM mode
+    * 16-bit PWM generator for motor driving
+    * Three full-duplex advanced UART
+    * Three SPI interface supports host and device mode
+    * Two SD Card Host controller
+    * One IIC interface supports host and device mode
+    * One SPDIF receiving interface without analog amplify
+    * Quadrate decoder
+    * Watchdog
+    * One Crystal Oscillator
+    * One channel 16-bit DAC with headphone amplifier
+    * Four channels Audio 16-bit ADC
+    * Four channels MIC amplifier
+    * Four channels analog MUX
+    * Ten channels 10-bit ADC
+    * Power-on reset
+    * Embedded PMU support low power mode
+  * Bluetooth Feature
+    * CMOS single-chip fully-integrated radio and baseband
+    * Compliant with Bluetooth V5.0+BR+EDR+
+    * BLE specification
+    * Bluetooth Piconet and Scatternet support
+    * Meet class2 and class3 transmitting power requirement
+    * Support GFSK and π/4 DQPSK all paket types
+    * Provides +15dbm transmitting power
+    * Receiver with -93dBm sensitivity
+    * Support a2dp\avctp\avdtp\avrcp\hfp\spp\smp\att\gap\gatt\rfcomm\sdp\l2cap profile
+  * WIFI Feature
+    * Support all mandatory IEEE 802.11b data rates of 1, 2, 5.5 and 11 Mbps, all 802.11g payload data rates of 6, 9, 12, 18, 24, 36, 48 and 54 Mbps, as well as 802.11n MCS0~MCS7, MCS32, 20MHz/40MHz BW, 800ns and 400ns guard interval.
+    * Support advanced 1x1 802.11n features:
+      * Full / Half Guard Interval
+      * Frame Aggregation
+      * Reduced Inter-frame Space (RIFS)
+      * Space Time Block Coding (STBC)
+      * Greenfield mode
+    * Support WEP/WPA-PSK(TKIP/CCMP)/WPA2-PSCK/AES256/AES128/SHA256/SHA128
+    * Support apply to AP/STA
+    * Transmitter power:
+      * DSSS 1M/S 17 dBm
+      * MCS0 16 dBm
+      * MCS7 13 dBm
+    * Receiver sensitivity:
+      * DSSS 1M/S -95 dBm
+      * MCS0 -92 dBm
+      * MCS7 -74 dBm
+    * Packages
+      * QFN48(6mm*6mm)
+    * Temperature
+      * Operating temperature: -40℃ to +85℃
+      * Storage temperature: -65℃ to +150℃
+        
 ## Specifications
 
 * Five colors available: White, Black, Pink, Red and Full Black
