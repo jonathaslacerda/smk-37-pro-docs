@@ -28,6 +28,7 @@ Documentation repository for M-Vave SMK 37 Pro
     * 128 Vectored interrupts
     * Four Levels interrupt priority
   * 8Mbit Flash
+  * Bootloader: [Bootloader wl82](https://github.com/Jieli-Tech/fw-Bootloader/tree/main/user_boot/cpu/wl82)
   * Image Signal Processor
     * Support DVP and BT656 interface timing
     * Support YUV422 format (Input)
