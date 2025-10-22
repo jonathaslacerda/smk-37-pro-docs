@@ -18,6 +18,7 @@ Documentation repository for M-Vave SMK 37 Pro
 
 * ~SoC JieLi C108221-11B8 ([LarsLinux93](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc?permalink_comment_id=5739103#gistcomment-5739103))~
 * SoC JieLi AC7911B8 ([EdCo](https://www.sequencer.de/synthesizer/threads/m-vave-smk-37-pro-midi-controller-mit-eingebauter-dx7-engine-und-sequenzer.175956/page-3#post-2980924))
+  * Documentation: https://doc.zh-jieli.com/AC79/zh-cn/release_v1.2.0/
   * SDK: https://gitee.com/Jieli-Tech/fw-AC79_AIoT_SDK | https://gitee.com/Jieli-Tech/fw-AC79_AIoT_SDK
   * [https://kagaimiq.github.io/jielie/chips/](https://kagaimiq.github.io/jielie/chips/) 
   * <a href="https://www.axtekic.com/web/uploads/file/20230313/gNZPgyZMJ87VB3CB0873B102SR6868n8.pdf" target="_blank">Datasheet</a>
