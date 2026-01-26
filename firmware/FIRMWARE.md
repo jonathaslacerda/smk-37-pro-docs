@@ -1,4 +1,4 @@
-# Firmware 1.05 (a.k.a 12) - 04-06-2025
+# Firmware 12 (a.k.a 1.05) - 04-06-2025
 [Download](SMK-37_Pro_012.fwsc)
 
 * Added a calibration mode for malfunctioning Pitch/Mod wheels
@@ -9,7 +9,7 @@
 * Fixed an issue where the synthesizer would continue sustaining notes after turning the MOD wheel
 * Fixed an issue where the sustain pedal was receiving incorrect messages
 
-# Firmware 1.10 (a.k.a 13) - 17-07-2025
+# Firmware 13 (a.k.a 1.10) - 17-07-2025
 [Download](SMK-37_Pro_013.fwsc)
 
 * Fixed occasional popping when switching presets.
@@ -23,7 +23,7 @@
 * Adjusted UI delay for short-press actions.
 * Added manual save for the Sequencer.
 
-# Firmware 1.15? (a.k.a 14) Not Released - 18-07-2025
+# Firmware 14 - Not Released - 18-07-2025
 
 * Fixed occasional popping when switching presets.
 * Fixed popping when enabling multiple effect groups simultaneously.
@@ -35,7 +35,7 @@
 * Adjusted UI delay for short-press actions.
 * Added manual save for the Sequencer.
 
-# Firmware 1.20 (a.k.a 15) - 26-01-2026
+# Firmware 15 (Remains 1.10) - 26-01-2026
 [Download](SMK-37_Pro_015.fwsc)
 
 * Added a calibration mode for malfunctioning Pitch/Mod wheels
