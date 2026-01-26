@@ -4,6 +4,8 @@
 
 SMK 37 Pro is a MIDI keyboard master controller with a FM engine sound source compatible with Yamaha DX7 tone generator.
 
+ATTENTION: There are some variations of SMK 37 Pro: SMK 37 Elite, MKE-P37 and Donner Starrykey 37 Play. Inspecting their v15 firmwares, I've found different binary.
+
 [https://www.m-vave.com/productinfo/1431195.html](https://www.m-vave.com/productinfo/1431195.html)
 
 Documentation repository for M-Vave SMK 37 Pro
@@ -158,7 +160,7 @@ Documentation repository for M-Vave SMK 37 Pro
 
 [Firmware versions](firmware/FIRMWARE.md)
 
-## Known bugs and errors/issues
+## Known bugs and errors/issues (to review after v15 FW)
 
 * [Wheels stop working after factory reset](https://www.reddit.com/r/synthesizers/comments/1kz1m4a/mvave_smk37_pro_pitchmod_wheel_not_working_after/)
 * [minor error in Scale World II](https://www.youtube.com/watch?v=I4OdTniRRtU)
