@@ -141,7 +141,7 @@ Documentation repository for M-Vave SMK 37 Pro
     * FX: Cutoff, distortion, reverb, delay
 * FX
     * Cutoff, distortion, reverb, delay
-* Polyphony: 12 notes?
+* Polyphony: 12 notes
 
 ## Software and Apps
 
