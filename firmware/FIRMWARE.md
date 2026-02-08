@@ -1,5 +1,10 @@
+# Firmware 11 (a.k.a 1.04) - 29-05-2025
+[Download](smk37pro/SMK-37_Pro_011.fwsc)
+
+* First release?
+
 # Firmware 12 (a.k.a 1.05) - 04-06-2025
-[Download](SMK-37_Pro_012.fwsc)
+[Download](smk37pro/SMK-37_Pro_012.fwsc)
 
 * Added a calibration mode for malfunctioning Pitch/Mod wheels
 * Added Latch toggle in Patch/Para/Fx modes — when Latch is off, the knobs send standard MIDI messages
@@ -10,7 +15,7 @@
 * Fixed an issue where the sustain pedal was receiving incorrect messages
 
 # Firmware 13 (a.k.a 1.10) - 17-07-2025
-[Download](SMK-37_Pro_013.fwsc)
+[Download](smk37pro/SMK-37_Pro_013.fwsc)
 
 * Fixed occasional popping when switching presets.
 * Fixed popping when enabling multiple effect groups simultaneously.
@@ -23,7 +28,8 @@
 * Adjusted UI delay for short-press actions.
 * Added manual save for the Sequencer.
 
-# Firmware 14 - Not Released - 18-07-2025
+# Firmware 14 - (remains 1.10???) - ??-??-????
+[Download](smk37pro/SMK-37_Pro_014.fwsc)
 
 * Fixed occasional popping when switching presets.
 * Fixed popping when enabling multiple effect groups simultaneously.
@@ -36,7 +42,7 @@
 * Added manual save for the Sequencer.
 
 # Firmware 15 (Remains 1.10) - 26-01-2026
-[Download](SMK-37_Pro_015.fwsc)
+[Download](smk37pro/SMK-37_Pro_015.fwsc)
 
 * Added a calibration mode for malfunctioning Pitch/Mod wheels
 * Added Latch toggle in Patch/Para/Fx modes — when Latch is off, the knobs send standard MIDI messages
