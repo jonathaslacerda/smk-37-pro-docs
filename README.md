@@ -22,6 +22,35 @@ Documentation repository for M-Vave SMK 37 Pro
 
 ## Hardware
 
+* DAC: [Cirruc Logic CS4344-CZZR](https://br.mouser.com/datasheet/3/75/1/CS4344_45_48_F2.pdf)
+  * Multi-bit Delta-Sigma Modulator
+  * 24-bit Conversion
+  * Automatic Sample Rate up to 192 kHz
+  * 105 dB Dynamic Range
+  * -90 dB THD+N
+  * Low Clock-Jitter Sensitivity
+  * Single +3.3 or +5 V Power Supply
+  * Filtered Line-Level Outputs
+  * On-Chip Digital De-emphasis
+  * Popguard Technology
+  * Small 10-pin TSSOP Package
+ 
+* Li-Ion Battery Charger: [AIP4056 -> TP4056](https://datasheet.lcsc.com/lcsc/1809261820_TOPPOWER-Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf)
+  * Programmable Charge Current Up to 1000mA
+  * No MOSFET, Sense Resistor or Blocking Diode Required
+  * Complete single-cell linear Li-Ion battery charger in ESOP8/EMSOP8 Package
+  * Constant-Current/Constant-Voltage operation with thermal regulation
+  * Preset 4.2V Charge Voltage with 1% Accuracy
+  * Automatic Recharge
+  * Automatic End-of-charge control
+  * UVLO
+  * Two Charge Status Output Pins
+  * C/10 Charge Termination
+  * 55uA Charge Current in Standby Mode
+  * 2.9V Trickle Charge Threshold
+  * Soft-Start Limits Inrush Current
+  * 8-Lead ESOP /EMSOP Package
+
 * ~SoC JieLi C108221-11B8 ([LarsLinux93](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc?permalink_comment_id=5739103#gistcomment-5739103))~
 * SoC JieLi AC7911B8 ([EdCo](https://www.sequencer.de/synthesizer/threads/m-vave-smk-37-pro-midi-controller-mit-eingebauter-dx7-engine-und-sequenzer.175956/page-3#post-2980924))
   * Documentation: https://doc.zh-jieli.com/AC79/zh-cn/release_v1.2.0/
