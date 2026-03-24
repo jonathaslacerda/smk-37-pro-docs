@@ -185,6 +185,10 @@ Documentation repository for M-Vave SMK 37 Pro
 * Bluetooth MIDI Connector
   * [Sinco Connector for Windows](https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/Sinco_Connector.exe)  
 
+## SYSEX
+
+[SYSEX Page (thanks to Mitch L)](sysex/SYSEX.md) 
+
 ## Firmware ([thanks to probonopd](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc))
 
 [Firmware versions](firmware/FIRMWARE.md)
