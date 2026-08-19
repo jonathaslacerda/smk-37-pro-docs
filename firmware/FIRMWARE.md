@@ -53,3 +53,14 @@
 * Fixed an issue where, on some devices, the OTG connection would register with an incorrect port name
 * Fixed an issue where the synthesizer would continue sustaining notes after turning the MOD wheel
 * Fixed an issue where the sustain pedal was receiving incorrect messages
+
+### Firmware 16 (1.16) - 12-08-2026
+[\[SMK-37 Pro\]](smk37pro/SMK-37_Pro_016.fwsc) | [\[SMK-37 Elite\]](smk37elite/SMK-37_Elite_016.fwsc) | [\[MKE-P37\]](mkep37/MKE-P37_016.fwsc) | [\[Starrykey 37 Play\]](starrykey37play/STARRYKEY-37_PLAY_016.fwsc)
+
+* Chord Recognition Expansion
+* Tempo - Resolved unstable tempo issue
+* MIDI - Resolved MIDI note‑sending latency issue for keys
+* Transpose - When oct is set to ‑3, transpose can now be adjusted down to ‑12, reaching note 0
+* Globe - Added USB Rec function. Option to mix audio input into audio output is available
+* Patch - Added Local Control feature. Can disable local MIDI control over the FM sound source
+* Pitch - Updated center point to 64
