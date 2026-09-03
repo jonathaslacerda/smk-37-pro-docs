@@ -57,6 +57,8 @@ Documentation repository for M-Vave SMK 37 Pro
   * SDK: https://gitee.com/Jieli-Tech/fw-AC79_AIoT_SDK | https://gitee.com/Jieli-Tech/fw-AC79_AIoT_SDK
   * [https://kagaimiq.github.io/jielie/chips/](https://kagaimiq.github.io/jielie/chips/) 
   * <a href="https://www.axtekic.com/web/uploads/file/20230313/gNZPgyZMJ87VB3CB0873B102SR6868n8.pdf" target="_blank">Datasheet</a>
+  * <a href="[https://www.axtekic.com/web/uploads/file/20230313/gNZPgyZMJ87VB3CB0873B102SR6868n8.pdf](https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8604442319861137408)" target="_blank">Datasheet Mirror 2</a>
+  * Chip Package: QFN48 ([bonsembiante](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc?permalink_comment_id=5966720#gistcomment-5966720)), same the ones present in M-Vave Mini Universe and Elemental (labeled as C094524-11B8) 
   * 32-bit RISC CPU
     * Double core RISC 32-bit CPU(Support FPU)
     * 24KB D-Cache 6 way, 32KB I-Cache 8way
