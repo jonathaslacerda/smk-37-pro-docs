@@ -12,7 +12,7 @@ Documentation repository for M-Vave SMK 37 Pro
 
 ## Official Docs
 
-* <a href="https://www.cuvave.com/productinfo/1431195.html" target="_blank">Product Page - SMK-37 Pro</a>
+* <a href="https://www.m-vave.com/product?id=smk-37-pro" target="_blank">Product Page - SMK-37 Pro</a>
 * [User Manual](manual/smk-37-pro-user-manual.pdf)
 * [DAW Setup Manual](manual/smk-37-pro-daw-setup-manual.pdf)
 
