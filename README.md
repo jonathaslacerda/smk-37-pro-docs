@@ -6,7 +6,7 @@ SMK 37 Pro is a MIDI keyboard master controller with a FM engine sound source co
 
 ATTENTION: There are some variations of SMK 37 Pro: SMK 37 Elite, MKE-P37 and Donner Starrykey 37 Play. Inspecting their v15 firmwares, I've found different binary.
 
-[https://www.m-vave.com/productinfo/1431195.html](https://www.m-vave.com/productinfo/1431195.html)
+[[https://www.m-vave.com/productinfo/1431195.html](https://www.m-vave.com/productinfo/1431195.html)](https://www.m-vave.com/product?id=smk-37-pro)
 
 Documentation repository for M-Vave SMK 37 Pro
 
