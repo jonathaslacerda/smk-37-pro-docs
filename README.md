@@ -191,9 +191,13 @@ Documentation repository for M-Vave SMK 37 Pro
 
 [SYSEX Page (thanks to Mitch L)](sysex/SYSEX.md) 
 
-## Firmware ([thanks to probonopd](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc))
+## Official Firmware ([thanks to probonopd](https://gist.github.com/probonopd/18b3ed65a69d0229eb630c47d7e316dc))
 
 [Firmware versions](firmware/FIRMWARE.md)
+
+## Alternative Firmware (CFW)
+
+Coming soon
 
 ## Known bugs and errors/issues (to review after v15 FW)
 
